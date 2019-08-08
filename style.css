@@ -2,7 +2,7 @@ body{
 	margin: 0px;
 	background-image: url(header.jpg);
 	background-size: cover;
-	background-repeat: no-repeat center center fixed;
+	background-repeat: no-repeat center center;
 }
 
 .container{
