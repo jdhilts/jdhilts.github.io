@@ -9,12 +9,12 @@ body, html{
 
 .container{
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	height: 100%;
 	margin-left: 0px;
 	margin-right: 0px;
-	justify-content: left;
-	align-items: top;
+	justify-content: center;
+	align-items: left;
 }
 
 h3{
